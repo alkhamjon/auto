@@ -514,7 +514,7 @@ a {
         justify-content: center;
     }
     .header__text{
-    width:100%;
+    min-width:100%;
     }
     .services{
         padding-top: 150px;
